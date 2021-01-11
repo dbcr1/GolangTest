@@ -1,8 +1,5 @@
 package main
 
-// функция selection - сортировка выбором
-//
-
 import (
 	"fmt"
 	"math/rand"
