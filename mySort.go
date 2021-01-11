@@ -18,7 +18,6 @@ func main() {
 	//fmt.Println("Сортировка вставками:", insertion(array))
 	//fmt.Println("Сортировка методом пузырька: ", bubble(array))
 	fmt.Println("Быстрая сортировка", quickSort(array))
-	fmt.Println("HW")
 
 }
 
