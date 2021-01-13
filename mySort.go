@@ -8,7 +8,7 @@ import (
 // main является функцией, с которой все начинается
 // убрать комментарии с нужной сортировки, а активную закомментировать
 func main() {
-	size := 10
+	size := 10000
 	array := generateArray(size)
 	fmt.Println("Исходный массив:", array)
 	//fmt.Println("Сортировка выборкой:", selection(array, size))
